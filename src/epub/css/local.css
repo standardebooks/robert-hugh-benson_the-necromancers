@@ -29,3 +29,25 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+/* Grave marker */
+#chapter-5-1 blockquote{
+	font-variant: all-small-caps;
+	text-align: center;
+}
+
+#chapter-5-1 blockquote p{
+	text-indent: 0;
+}
+/* End grave marker */
+
+/* Letter footers */
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+/* End letter footers */
