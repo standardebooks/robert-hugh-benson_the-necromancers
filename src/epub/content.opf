@@ -32,29 +32,31 @@
 		<dc:subject id="subject-1">Paranormal fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCHS</meta>
 		<meta property="term" refines="#subject-1">sh98004865</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Horror</meta>
+		<meta property="se:subject">Spirituality</meta>
+		<dc:description id="description">A young woman watches with concern as her adopted brother turns to irreligious forces in the hopes of reconnecting with his dead fiancée.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In the wake of his fiancée’s death, Laurie Baxter is introduced to the Spiritualist movement of the early 20th century. As his grief pushes him to explore an underworld of trances and séances, he finds himself torn between many sets of separate worlds; his Catholic faith and Spiritualist skepticism, his home in the country and his life in the city, his departed fiancée and Maggie Deronnais, the adopted sister who longs to support Laurie through his suffering. Her well-intentioned attempts to keep Laurie grounded are not well-received, and he is only pushed further away⁠—despite the dangers that await.&lt;/p&gt;
+			&lt;p&gt;As a Catholic priest, &lt;a href="https://standardebooks.org/ebooks/robert-hugh-benson"&gt;Robert Hugh Benson&lt;/a&gt; naturally has a bone to pick with the irreligious nature of Spiritualism, and there is a disdain for the movement present in this book. However, the story retains a sympathy for Laurie when he turns from his faith, and refuses to make any grandstanding declarations about Spiritualist ideas. The reality of what Laurie and Maggie experience remains in question, and whether or not Spiritualist notions of death are correct is quickly beside the point, even as the novel gradually turns to the horror that Benson is known for.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14275</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/TheNecromancers1917</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Necromancers</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-hugh-benson_the-necromancers</meta>
 		<dc:creator id="author">Robert Hugh Benson</dc:creator>
 		<meta property="file-as" refines="#author">Benson, Robert Hugh</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Robert_Hugh_Benson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50057241</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
+		<dc:contributor id="artist">Ambrose McEvoy</dc:contributor>
+		<meta property="file-as" refines="#artist">McEvoy, Ambrose</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ambrose_McEvoy</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr91034892</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
@@ -63,9 +65,9 @@
 		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Euphemia Allen</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Allen, Euphemia</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://effie.page/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
