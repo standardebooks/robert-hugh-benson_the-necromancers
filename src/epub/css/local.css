@@ -6,12 +6,9 @@ section[epub|type~="acknowledgments"]{
 }
 
 /* Grave marker */
-#chapter-5-1 blockquote{
+#chapter-5-1 blockquote p{
 	font-variant: all-small-caps;
 	text-align: center;
-}
-
-#chapter-5-1 blockquote p{
 	text-indent: 0;
 }
 /* End grave marker */
