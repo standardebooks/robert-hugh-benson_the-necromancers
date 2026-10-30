@@ -58,6 +58,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Ambrose McEvoy</dc:contributor>
 		<meta property="file-as" refines="#artist">McEvoy, Ambrose</meta>
+		<meta property="schema:alternateName" refines="#artist">Arthur Ambrose McEvoy</meta>
 		<link href="https://en.wikipedia.org/wiki/Ambrose_McEvoy" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/nr91034892.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
